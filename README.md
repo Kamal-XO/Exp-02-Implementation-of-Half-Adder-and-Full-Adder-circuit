@@ -91,15 +91,15 @@ endmodule
 
 ### RTL Realization :
 
-![OUTPUT](./RTLEX2FA.jpg)
+![OUTPUT](./RTLEX2FA.png)
 
 ### TIMING DIAGRAM :
 
-![OUTPUT](./TDEX2FA.png)
+![OUTPUT](./TDEX2FA.jpg)
 
 ### TRUTH TABLE :
 
-![OUTPUT](./TTFAEX2.jpg)
+![OUTPUT](./TTFAEX2.png)
 
 ### Result:
 
