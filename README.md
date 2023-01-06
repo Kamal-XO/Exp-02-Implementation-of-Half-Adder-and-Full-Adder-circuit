@@ -66,19 +66,19 @@ endmodule
 
 ### Logic Symbol :
 
-![OUTPUT](./)
+![OUTPUT](./HALOGIC.png)
 
 ### RTL Realization :
 
-![OUTPUT](./)
+![OUTPUT](./RTLEX2.png)
 
 ### TIMING DIAGRAM :
 
-![OUTPUT](./)
+![OUTPUT](./TDEX2.jpg)
 
 ### TRUTH TABLE :
 
-![OUTPUT](./)
+![OUTPUT](./TTEX2.png)
 
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -87,19 +87,19 @@ endmodule
 
 ### Logic Symbol :
 
-![OUTPUT](./)
+![OUTPUT](./FALOGIC.png)
 
 ### RTL Realization :
 
-![OUTPUT](./)
+![OUTPUT](./RTLEX2FA.jpg)
 
 ### TIMING DIAGRAM :
 
-![OUTPUT](./)
+![OUTPUT](./TDEX2FA.png)
 
 ### TRUTH TABLE :
 
-![OUTPUT](./)
+![OUTPUT](./TTFAEX2.jpg)
 
 ### Result:
 
